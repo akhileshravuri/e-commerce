@@ -1,0 +1,133 @@
+.navbar2{display:flex;justify-content:space-between;color:white;background-color: rgba(16, 22, 11, 0.999);height:100px;font-size:20px;border-radius:10px;width:1510px}
+.navbar1{height:100px;margin-top:-8px}
+.navbar4{margin-top: 30px;}
+.navbar4 input {height:25px;border-radius:10px}
+.navbar6{margin-right:10px;margin-top: 20px;}
+.navbar5{margin-top:20px;}
+.navbar8 li{list-style-type: none;margin-top: 9px;font-weight: bold;}
+
+.navbar8{display:flex;border-radius:10px;justify-content:space-between;background-color: rgb(148, 168, 161);font-size:20px;margin-top: 1px;height:60px}
+.ac1{display:flex}
+.navbar3{margin-top:20px;}
+
+.books1{display:flex}
+.books3{margin:30px}
+.computer1{display:flex}
+.furniture1{display:flex}
+.furniture3{margin:4px;}
+.men1{display:flex}
+.men3{height:300px;margin:2px;}
+.watch1{display:flex}
+.mobile1{display:flex}
+.mobile3{margin:23px}
+.women1{display:flex;}
+.women3{height:300px;}
+.speaker1{display:flex}
+.acitem1{display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-rows: auto;
+    grid-gap: 5px;}
+.tvitem1{display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-template-rows: auto;
+        grid-gap: 5px;} 
+.fridgeitem1{display: grid;
+            grid-template-columns: 2fr 2fr 2fr;
+            grid-template-rows: auto;
+            grid-gap: 5px;}   
+.watchesitem1{display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-template-rows: auto;
+        grid-gap: 5px;}  
+.furnitureitem1{display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-template-rows: auto;
+        grid-gap: 5px;}
+.booksitem1{display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-template-rows: auto;
+        grid-gap: 5px;}
+.womenitem1{display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto;
+        grid-gap: 1px;}  
+.mobileitem1{display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-rows: auto;
+    grid-gap: 5px;}   
+.computeritem1{display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-rows: auto;
+    grid-gap: 5px;}
+.menitem1{display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-template-rows: auto;
+        grid-gap: 5px;margin-left: 100px;gap:50px}    
+.speakeritem1{display: grid;
+            grid-template-columns: 2fr 2fr 2fr;
+            grid-template-rows: auto;
+            grid-gap: 5px;}
+.kitchenitem1{display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-template-rows: auto;
+        grid-gap: 5px;}
+.navbar8 li{color:rgb(64, 85, 85)}        
+.womensingle1{display:flex}
+.womensingle2 img{height:400px}
+.womenitem3{height:300px}
+.fridgesingle1{display:flex}
+.mobilesingle1{display:flex}
+.menitem2 img{height:300px}
+.mensingle2{height:400px}
+.mensingle1{display:flex}
+.spesingle1{display:flex}
+.tvsingle1{display:flex}
+.acsingle1{display:flex}
+.fursingle1{display:flex;}
+.kitsingle1{display:flex}
+.booksingle1{display:flex}
+.mobilemain{display:flex}
+.mobilemain2{width:300px;color:white;background-color: black;height:700px;}
+.mobileitem1 p{margin-left:40px;}
+.mobileitem2{margin-left:60px;}
+.fridgemain{display:flex}
+.fridgeitem1 p{margin-left:100px;}
+.fridgemain2{width:300px;color:white;background-color: black;height:700px;}
+.fridgeitem2{padding:30px;}
+.computermain{display:flex}
+.computermain1{width:300px;color:white;background-color: black;height:700px;}
+.computeritem2{margin-left:100px;}     
+.furniture2{margin-left:-5px;}     
+.furnituremain1{display:flex}
+.furnitureitem2{margin-left:100px;}
+.furnituremain2{width:300px;color:white;background-color: black;height:700px;}
+.watchmain1{display:flex}
+.watchesitem2{margin-left:100px;}
+.womenmain{display:flex}
+.womenitem2{margin-left: 100px;}
+.womenmain2{width:300px;color:white;background-color: black;height:700px;}
+.menmain{display:flex}
+.menmain2{width:300px;color:white;background-color: black;height:700px;}
+.kitchenmain1{display:flex}
+.kitchenmain2{width:300px;color:white;background-color: black;height:700px;}
+.kitchenitem1{margin-left: 100px;gap:60px}
+.speakermain1{display:flex}
+.speakermain2{width:300px;color:white;background-color: black;height:700px}
+.speakeritem2{margin-left:100px;}
+.tvmain1{display:flex}
+.tvitem2{margin-left: 100px}
+.tvitem1{gap:30px}
+.acmain1{display:flex}
+.acmain2{width:300px;color:white;background-color: black;height:700px;}
+.acitem2{margin-left: 100px;}
+.booksitem2{margin-left: 100px;}
+.watchmain2{width:300px;color:white;background-color: black;height:700px;}
+.tvmain2{width:300px;color:white;background-color: black;height:700px;}
+.gap{margin:10px}
+#a:hover{transform: scale(1.1)};
+.watchsingle1{display:flex}
+.watchsingle1{display: flex;}
+.computersingle1{display:flex}
+button{background-color: rgb(255, 81, 81);color:rgb(229, 216, 216);border-radius: 10px;width:200px}
+.cart{display:flex}
+.navbar7{width:1510px;}
